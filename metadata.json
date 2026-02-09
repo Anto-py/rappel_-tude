@@ -1,0 +1,5 @@
+{
+  "name": "StudyFlow MVP",
+  "description": "Une application de gestion d'études intelligente qui aide les élèves à organiser leurs sessions de révision avec l'aide de l'IA pour décomposer les sujets complexes et envoyer des rappels.",
+  "requestFramePermissions": []
+}
